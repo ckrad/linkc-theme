@@ -48,7 +48,7 @@
 	add_filter( 'get_search_form', 'fenikso_search_form');
 
 	/*
-	 * Bootstrap 导航菜单
+	 * flatui 导航菜单
 	 */
 
 	class fenikso_Nav_Walker extends Walker_Nav_Menu {
